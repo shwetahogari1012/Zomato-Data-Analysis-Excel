@@ -14,7 +14,7 @@ The Excel file includes:
 
 # 📊 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard Preview](dashboard.png)
 
 ---
 
